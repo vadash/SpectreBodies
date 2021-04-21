@@ -13,3 +13,4 @@ Metadata/Monsters/Miner/MinerLantern
 Metadata/Monsters/Miner/MinerLantern
 Metadata/Monsters/BloodChieftain/MonkeyChiefBloodEnrage
 Metadata/Monsters/Cannibal/CannibalMaleChampion
+Metadata/Monsters/BloodChieftain/MonkeyChiefBloodParasite
