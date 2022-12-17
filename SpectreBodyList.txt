@@ -14,3 +14,5 @@ Metadata/Monsters/Miner/MinerLantern
 Metadata/Monsters/BloodChieftain/MonkeyChiefBloodEnrage
 Metadata/Monsters/Cannibal/CannibalMaleChampion
 Metadata/Monsters/BloodChieftain/MonkeyChiefBloodParasite
+Metadata/Monsters/Hellion/HellionBreachSpectre
+Metadata/Monsters/Hellion/HellionBreachHowlSpectre
